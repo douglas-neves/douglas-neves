@@ -1,5 +1,5 @@
 # 💫 About me:
-🔭 I’m currently working: on AWS lambdas and Typescript<br>🌱 I’m currently learning: Phyton, AWS lambdas and speak english<br>💬 Ask me about: JS/TS, Nest, Vue, React<br>
+🔭 I’m currently working: on AWS lambdas and Typescript<br>🌱 I’m currently learning: Phyton, AWS lambdas and speak english<br>💬 Ask me about: JS/TS, Nx, Vue, Angular<br>
 
 
 ## 🌐 Socials:
