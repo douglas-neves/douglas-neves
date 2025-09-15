@@ -2,6 +2,9 @@
   <h1>
     <a href="https://www.linkedin.com/in/nevesdouglas"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C91F00&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Douglas!" alt="Typing SVG" /></a>
   </h1>
+
+  <!-- Optional snake animation -->
+  <img src="https://raw.githubusercontent.com/douglas-neves/douglas-neves/output/snake.svg" alt="Snake contribution animation" />
 </div>
   <p><em>Frontend specialist (React / Vue / UX minded) evolving advanced backend architecture</em></p>
   <p>
@@ -99,9 +102,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=douglas-neves&show_icons=true&theme=radical&rank_icon=github" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-neves&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
 </div>
-
-<!-- Optional snake animation -->
-<img src="https://raw.githubusercontent.com/douglas-neves/douglas-neves/output/snake.svg" alt="Snake contribution animation" />
 
 ---
 
