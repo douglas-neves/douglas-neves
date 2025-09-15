@@ -1,16 +1,116 @@
-# 💫 About me:
-🔭 I’m currently working: on AWS lambdas and Typescript<br>🌱 I’m currently learning: Phyton, AWS lambdas and speak english<br>💬 Ask me about: JS/TS, Nx, Vue, Angular<br>
+<div align="center">
+  <h1>
+    <a href="https://www.linkedin.com/in/nevesdouglas"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C91F00&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Douglas!" alt="Typing SVG" /></a>
+  </h1>
+</div>
+  <p><em>Frontend specialist (React / Vue / UX minded) evolving advanced backend architecture</em></p>
+  <p>
+    <a href="https://github.com/douglas-neves?tab=followers"><img src="https://img.shields.io/github/followers/douglas-neves?style=social" alt="GitHub followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=douglas-neves&style=flat-square" alt="Profile views" />
+  </p>
+</div>
+
+---
+
+### About me
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nevesdouglas_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nevesdouglas1) 
+- 💼 Frontend developer since 2010 (HTML/CSS -> SPA era -> design systems & component architecture).
+- 🖥️ Specialty: React + ecosystem (performance, advanced hooks, accessibility, DX) and Vue in hybrid stacks.
+- 🔄 Recently expanding into Node.js backend (scalable APIs, clean architecture, observability).
+- 🧠 Strong JavaScript/TypeScript background plus experience with PHP/Laravel.
+- 🚀 Interested in DX, automation, clean architecture, testing (unit, integration, e2e) and frontend performance (render pipeline, bundle, web vitals).
+- 💬 Happy to chat about frontend architecture, design systems, performance, progressive refactors, API design and tooling.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black)  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-neves&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+📫 Contact: <a href="mailto:neves.douglas@outlook.com">neves.douglas@outlook.com</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=douglas-neves&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
+
+### 🔭 Current Focus / Foco Atual
+| Área / Area | Tópicos / Topics |
+|-------------|------------------|
+| Frontend | React performance (memoization, concurrency), Vue component patterns, A11y, design systems, bundle & runtime profiling |
+| Backend | Node.js APIs (modular monolith), Clean Architecture, SOLID, resilience (circuit breaker / retry) |
+| Quality | Testing strategy (unit/integration/e2e), type safety, lint + cspell + commit lint pipelines |
+| DX | Tooling, automation scripts, scaffolds, CI feedback loops |
+| Data | PostgreSQL (indexes, query plans), Prisma schema design |
+| Observability | Structured logs, metrics dashboards, tracing (OpenTelemetry) |
+
+---
+
+### 🧰 Tech Stack (Principais)
+<details open>
+<summary><strong>Languages</strong></summary>
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+</div>
+</details>
+
+<details open>
+<summary><strong>Frontend (Especialidade)</strong></summary>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="Sass" />
+</div>
+</details>
+
+<details open>
+<summary><strong>Backend / Frameworks & Libraries</strong></summary>
+<div>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="32" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="32" alt="Laravel" />
+</div>
+</details>
+
+<details open>
+<summary><strong>Databases & Storage</strong></summary>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="32" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" />
+</div>
+</details>
+
+<details>
+<summary><strong>Tooling / Dev Productivity</strong></summary>
+<div>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="28" alt="Git" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="28" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="28" alt="npm" />
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="28" alt="Yarn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="28" alt="Google Cloud" />
+</div>
+</details>
+
+---
+
+### 📊 GitHub Stats
+<div align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=douglas-neves&show_icons=true&theme=radical&rank_icon=github" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-neves&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
+</div>
+
+<!-- Optional snake animation -->
+<img src="https://raw.githubusercontent.com/douglas-neves/douglas-neves/output/snake.svg" alt="Snake contribution animation" />
+
+---
+
+### 🔗 Links & Contact
+- Email: <a href="mailto:neves.douglas@outlook.com">neves.douglas@outlook.com</a>
+- LinkedIn: [nevesdouglas](https://www.linkedin.com/in/nevesdouglas)
+---
+
+### 🤝 Collaboration
+Open to collaborate on: frontend architecture (design systems, performance), gradual migrations, progressive refactors, DX tooling and platform evolution (including Node backend when relevant).
 
 ---
