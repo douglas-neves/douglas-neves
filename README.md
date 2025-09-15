@@ -29,8 +29,8 @@
 
 ---
 
-### 🔭 Current Focus / Foco Atual
-| Área / Area | Tópicos / Topics |
+### 🔭 Current Focus 
+| Area        | Topics |
 |-------------|------------------|
 | Frontend | React performance (memoization, concurrency), Vue component patterns, A11y, design systems, bundle & runtime profiling |
 | Backend | Node.js APIs (modular monolith), Clean Architecture, SOLID, resilience (circuit breaker / retry) |
@@ -55,7 +55,7 @@
 </details>
 
 <details open>
-<summary><strong>Frontend (Especialidade)</strong></summary>
+<summary><strong>Frontend (Specialties)</strong></summary>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="Vue.js" />
